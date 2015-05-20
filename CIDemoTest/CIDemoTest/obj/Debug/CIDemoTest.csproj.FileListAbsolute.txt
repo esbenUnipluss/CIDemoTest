@@ -1,0 +1,5 @@
+C:\Git\CIDemoTest\CIDemoTest\CIDemoTest\bin\CIDemoTest.dll
+C:\Git\CIDemoTest\CIDemoTest\CIDemoTest\bin\CIDemoTest.pdb
+C:\Git\CIDemoTest\CIDemoTest\CIDemoTest\obj\Debug\CIDemoTest.csprojResolveAssemblyReference.cache
+C:\Git\CIDemoTest\CIDemoTest\CIDemoTest\obj\Debug\CIDemoTest.dll
+C:\Git\CIDemoTest\CIDemoTest\CIDemoTest\obj\Debug\CIDemoTest.pdb
